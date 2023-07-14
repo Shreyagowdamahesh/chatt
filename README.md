@@ -1,7 +1,4 @@
 # Simple Chat Bot
-
-<img src="./GitHubImages/ss.jpeg" width="340vw">
-
 ### Prerequisites
 * Recycler Views
   * <a href="https://youtu.be/__OMnFR-wZU">Tutorial Part 1</a>
